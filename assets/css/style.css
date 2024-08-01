@@ -402,7 +402,9 @@
     cursor: pointer;
 
 }
-
+.mb-16{
+    margin-bottom: 16px;
+}
 .delete-btn {
     padding-left: 6%;
     padding-top: 8px;
@@ -501,9 +503,6 @@
 .pb-12 {
     padding-bottom: 12px;
 }
-
-
-
 .credits {
     font-family: 'Poppins', sans-serif;
     font-size: 14px;
@@ -689,7 +688,6 @@
     .concertImg {
         width: 100%;
     }
-
 }
 
 @media(max-width:768px) {
